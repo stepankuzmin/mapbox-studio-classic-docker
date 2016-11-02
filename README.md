@@ -1,5 +1,9 @@
 # Mapbox Studio Classic Docker image
 
+[![Docker Stars](https://img.shields.io/docker/stars/stepankuzmin/mapbox-studio-classic.svg)]()
+[![Docker Pulls](https://img.shields.io/docker/pulls/stepankuzmin/mapbox-studio-classic.svg)]()
+[![Docker Automated buil](https://img.shields.io/docker/automated/stepankuzmin/mapbox-studio-classic.svg)]()
+
 [Mapbox Studio Classic](https://github.com/mapbox/mapbox-studio-classic) is a desktop application for vector tile driven map design.
 
 ## Usage
