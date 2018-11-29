@@ -6,6 +6,8 @@
 
 [Mapbox Studio Classic](https://github.com/mapbox/mapbox-studio-classic) is a desktop application for vector tile driven map design.
 
+![Screenshot](https://raw.githubusercontent.com/stepankuzmin/mapbox-studio-classic-docker/master/screenshot.png)
+
 ## Usage
 
 ```shell
